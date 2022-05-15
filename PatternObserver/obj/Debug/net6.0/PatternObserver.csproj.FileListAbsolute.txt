@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\bin\Debug\net6.0\PatternObserver.exe
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\bin\Debug\net6.0\PatternObserver.deps.json
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\bin\Debug\net6.0\PatternObserver.runtimeconfig.json
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\bin\Debug\net6.0\PatternObserver.dll
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\bin\Debug\net6.0\PatternObserver.pdb
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.dll
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\refint\PatternObserver.dll
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.pdb
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\PatternObserver.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\PatternObserver\PatternObserver\obj\Debug\net6.0\ref\PatternObserver.dll

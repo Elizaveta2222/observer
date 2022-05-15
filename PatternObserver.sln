@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternObserver", "PatternObserver\PatternObserver.csproj", "{49E11769-56FE-4B9A-9CAC-098F518B87BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPObserver", "TestPObserver\TestPObserver.csproj", "{EFEEB1A3-264C-426A-A1A7-C8FCDCB55E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E11769-56FE-4B9A-9CAC-098F518B87BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E11769-56FE-4B9A-9CAC-098F518B87BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E11769-56FE-4B9A-9CAC-098F518B87BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E11769-56FE-4B9A-9CAC-098F518B87BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEEB1A3-264C-426A-A1A7-C8FCDCB55E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEEB1A3-264C-426A-A1A7-C8FCDCB55E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEEB1A3-264C-426A-A1A7-C8FCDCB55E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEEB1A3-264C-426A-A1A7-C8FCDCB55E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2E93E8-0DB4-4C4D-91FD-7FDA9446CB55}
+	EndGlobalSection
+EndGlobal
